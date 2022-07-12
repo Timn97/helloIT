@@ -15,7 +15,7 @@ int T3(int n){
 float T4(int);
 int main(){
     int n =10;
-
+	printf("Hello world2");
     printf("tong 1+1/2...1/10 = %f", T4(10));
     return 0;
 }
